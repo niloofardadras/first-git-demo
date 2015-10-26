@@ -11,5 +11,7 @@ using namespace std;
 
 int main() {
 	cout << "lab 4 part 3" << endl; // prints lab 4 part 3
+	cout<< "niloo";
+	cout<<"exams !!";
 	return 0;
 }
