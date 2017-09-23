@@ -3,7 +3,7 @@
 // Author      : niloofar hosseinidadras
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : (very basic code just to get used to git C++, Ansi-style
 //============================================================================
 
 #include <iostream>
